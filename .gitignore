@@ -1,0 +1,4 @@
+/books/*
+.ipynb_checkpoints
+.idea
+env
